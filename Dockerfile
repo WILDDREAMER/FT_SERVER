@@ -1,4 +1,3 @@
-#base image (OS)
 FROM debian:buster
 
 RUN apt update 
